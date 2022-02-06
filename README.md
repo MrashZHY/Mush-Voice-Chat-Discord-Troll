@@ -2,7 +2,6 @@
 # Mush Discord Voicechat Troll 
 
 
-
 _This Project create for education purpose_
 
 - This Program use for troll your discord server voice chat
@@ -17,6 +16,7 @@ _This Project create for education purpose_
 - Flood server audit log
 - Auto Login noneed to find token by yourself
 
+Xample https://vt.tiktok.com/ZSesVEL4t/
 ## Installation
 
 Auto Login
